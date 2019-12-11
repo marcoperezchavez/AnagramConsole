@@ -1,0 +1,10 @@
+D:\rep\anagrams\anagrams\anagrams\bin\Debug\netcoreapp3.0\anagrams.exe
+D:\rep\anagrams\anagrams\anagrams\bin\Debug\netcoreapp3.0\anagrams.deps.json
+D:\rep\anagrams\anagrams\anagrams\bin\Debug\netcoreapp3.0\anagrams.runtimeconfig.json
+D:\rep\anagrams\anagrams\anagrams\bin\Debug\netcoreapp3.0\anagrams.runtimeconfig.dev.json
+D:\rep\anagrams\anagrams\anagrams\bin\Debug\netcoreapp3.0\anagrams.dll
+D:\rep\anagrams\anagrams\anagrams\bin\Debug\netcoreapp3.0\anagrams.pdb
+D:\rep\anagrams\anagrams\anagrams\obj\Debug\netcoreapp3.0\anagrams.AssemblyInfoInputs.cache
+D:\rep\anagrams\anagrams\anagrams\obj\Debug\netcoreapp3.0\anagrams.AssemblyInfo.cs
+D:\rep\anagrams\anagrams\anagrams\obj\Debug\netcoreapp3.0\anagrams.dll
+D:\rep\anagrams\anagrams\anagrams\obj\Debug\netcoreapp3.0\anagrams.pdb
